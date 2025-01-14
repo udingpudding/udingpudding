@@ -12,7 +12,7 @@ Congruent to my education, I professionally thrive at the intersection of busine
   - Achieved a **98% reduction in training time** and a **50% loss reduction** by prototyping efficient autoregressive transformers and fine-tuning seasonal category models with custom loss functions.  
   - Published internal reports recognized by senior leadership and presented findings to the Consumer Analytics AVP.  
 
-- ** Research Data Scientist, NYU Redlining Project**  || Document Entity Extraction with cRNNs and LLMs 
+- **Research Data Scientist, NYU Redlining Project**  || Document Entity Extraction with cRNNs and LLMs 
   - Digitized **280,000 mortgage document scans (1930–1970)** into a publicly available dataset using a custom computer vision and GenAI-based pipeline, estimated to save NYU **$300,000** by eliminating manual digitization.  
   - Leveraged **docTR** (open-source OCR) and prompt-engineered **Llama**, **Mistral**, and **NVIDIA LLMs** for entity extraction.  
   - Created an efficient pipeline to ensure high accuracy and usability of extracted data.  
