@@ -7,7 +7,7 @@ I’m Uday, a Senior at **New York University**, pursuing a dual major in **Fina
 Congruent to my education, I professionally thrive at the intersection of business and technology, utilizing data-science as a decision-making tool to steer business. My journey in data science stems from a strong desire to structurally solve complex problems and translate technical solutions into tangible business value.  
 
 🌟 **Notable Experiences**  
-- **Data Science Intern, CVS Health** || Time Series Forecasting w Transformers 
+- **Data Science Intern, CVS Health** || Time Series Forecasting with Transformers 
   - Enhanced nationwide demand forecasting models for 200,000+ products using transformer-based models.  
   - Achieved a **98% reduction in training time** and a **50% loss reduction** by prototyping efficient autoregressive transformers and fine-tuning seasonal category models with custom loss functions.  
   - Published internal reports recognized by senior leadership and presented findings to the Consumer Analytics AVP.  
