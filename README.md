@@ -3,12 +3,10 @@
 ## 🎓 About Me  
 I’m **Uday Sapra**, a Senior at **New York University**, pursuing a dual major in **Finance** from the Stern School of Business and **Data Science** from the Center for Data Science. My professional niche lies in being a business-oriented data scientist—merging my business acumen with advanced data modeling and quantitative skills.  
 
----
 
 ## 💡 What I Do  
 I thrive at the intersection of **business** and **technology**, using **data science** as a strategic tool for decision-making. My journey in data science is driven by a strong desire to tackle complex problems structurally and transform technical solutions into **tangible business value**.  
 
----
 
 ## 🌟 Notable Experiences  
 
@@ -29,18 +27,15 @@ I thrive at the intersection of **business** and **technology**, using **data sc
 - Built and tested a product enabling clients to query SQL databases using **natural language**.  
 - Analyzed CRM databases to generate insights and ideate product innovations aligned with client demand.  
 
----
 
 ## 💻 What Drives Me  
 I’m passionate about **interpretable data science**, ensuring complex models and solutions are accessible to diverse stakeholders. My focus is on bridging the communication gap between technical teams and business strategists, translating **technical expertise into impactful strategies**.  
 
----
 
 ## 🌏 Beyond Work  
 - Co-founded **NYU Blockchain and Fintech**, growing it to **100+ members** and fostering professional partnerships.  
 - Founded **Saahayak**, a student-led initiative supporting NGOs and addressing social challenges, impacting **10,000+ individuals** over three years.  
 
----
 
 ## 🔧 Technical Skills  
 
