@@ -1,7 +1,7 @@
 ## Hi Folks👋
 
 🎓 **About Me**  
-I’m Uday, a Senior at **New York University**, pursuing a dual major in **Finance** from the Stern School of Business and **Data Science** from the Center for Data Science. My professional niche is being a business-oriented data scientist - enabled by my ability to merge my business acumen with quantitative data and modelling skills. 
+I’m Uday, a Senior at **New York University**, pursuing a dual major in **Finance** from the Stern School of Business and **Data Science** from the Center for Data Science. My professional niche is being a business-oriented data scientist - enabled by my ability to merge my business acumen with quantitative, data and modelling skills. 
 
 💡 **What I Do**  
 Congruent to my education, I professionally thrive at the intersection of business and technology, utilizing data-science as a decision-making tool to steer business. My journey in data science stems from a strong desire to structurally solve complex problems and translate technical solutions into tangible business value.  
