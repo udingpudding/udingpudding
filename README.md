@@ -1,7 +1,7 @@
 # Hi Folks 👋  
 
 ## 🎓 About Me  
-I’m **Uday Sapra**, a Senior at **New York University**, pursuing a dual major in **Finance** from the Stern School of Business and **Data Science** from the Center for Data Science. My professional niche lies in being a business-oriented data scientist—merging my business acumen with advanced data modeling and quantitative skills.  
+I’m **Uday Sapra**, a Senior at **New York University**, pursuing a dual major in **Finance** from the Stern School of Business and **Data Science** from the Center for Data Science. My professional niche lies in being a business-oriented data scientist — merging my business acumen with advanced data modeling and quantitative skills.  
 
 
 ## 💡 What I Do  
@@ -16,13 +16,13 @@ I thrive at the intersection of **business** and **technology**, using **data sc
 - Achieved a **98% reduction in training time** and a **50% loss reduction** by prototyping efficient autoregressive transformers and fine-tuning seasonal category models with custom loss functions.  
 - Published internal reports recognized by senior leadership and presented findings to the **Consumer Analytics AVP**.  
 
-### **Researcher, NYU Redlining Project**  
+### **Research Data Scientist, NYU Redlining Lab**  
 *Document Entity Extraction with cRNNs and LLMs*  
 - Digitized **280,000 mortgage document scans (1930–1970)** into a publicly available dataset, estimated to save NYU **$300,000** by eliminating manual digitization.  
 - Leveraged **docTR** (open-source OCR) and prompt-engineered **Llama**, **Mistral**, and **NVIDIA LLMs** for entity extraction.  
 - Designed a robust pipeline ensuring high accuracy and usability of extracted data.  
 
-### **Business Analyst Intern, BusinessNext**  
+### **Data Science Intern, BusinessNext**  
 *Querying Databases with LLMs*  
 - Built and tested a product enabling clients to query SQL databases using **natural language**.  
 - Analyzed CRM databases to generate insights and ideate product innovations aligned with client demand.  
