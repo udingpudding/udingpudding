@@ -38,7 +38,7 @@ I’m passionate about **cutting-edge yet interpretable and explaineable data sc
 - Passionate about photography, biking, writing, motorsports, cricket, geopolitics, watches, perfumes
 
 
-## 🔧 Technical Skills  
+## 🔧 Skills  
 ### Programming Languages  
 - Python  
 - SQL  
