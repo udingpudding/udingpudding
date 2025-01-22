@@ -1,11 +1,11 @@
 # Hi Folks 👋  
 
 ## 🎓 About Me  
-I’m **Uday Sapra**, a Senior at **New York University**, pursuing a dual major in **Finance** from the Stern School of Business and **Data Science** from the Center for Data Science. My professional niche lies in being a business-oriented data scientist — merging my business acumen with advanced data modeling and quantitative skills.  
+I’m **Uday Sapra**, a Senior at **New York University**, pursuing a dual major in **Finance** from the Stern School of Business and **Data Science** from the Center for Data Science. My professional niche surfaces in being a business-oriented data scientist — yielded by my ability to harmonize my academic background in both data and business. 
 
 
 ## 💡 What I Do  
-I thrive at the intersection of **business** and **technology**, using **data science** as a strategic tool for decision-making. My journey in data science is driven by a strong desire to tackle complex problems structurally and transform technical solutions into **tangible business value**.  
+I thrive at the intersection of **business** and **technology**. Data and ML serve as the lenses through which I structure business problems, brainstorm, and build tangible solutions. My experience at a business school yields me the ability to effectively communicate my quantitative research, insights, and development to overaching business leaders - ironing out the communication gap between data-scientists and decision-makers. Effectively, I have been able to foster a trail of tangible business impact through my work. 
 
 
 ## 🌟 Notable Experiences  
@@ -29,16 +29,16 @@ I thrive at the intersection of **business** and **technology**, using **data sc
 
 
 ## 💻 What Drives Me  
-I’m passionate about **interpretable data science**, ensuring complex models and solutions are accessible to diverse stakeholders. My focus is on bridging the communication gap between technical teams and business strategists, translating **technical expertise into impactful strategies**.  
+I’m passionate about **cutting-edge yet interpretable and explaineable data science** - my work involves experimenting with the latest models and breakthroughs while ensuring they're communicated effectively to diverse stakeholders. I believe a deep understanding of quantitative models and the ability to analyze, communicate, and present the resulting insights is the most effective way to steer business and create value as a data-scientist. **Therefore, with all my recent projects, you'll either find a summary report or slideck that distills the entire development process and analysis :)**
 
 
 ## 🌏 Beyond Work  
 - Co-founded **NYU Blockchain and Fintech**, growing it to **100+ members** and fostering professional partnerships.  
-- Founded **Saahayak**, a student-led initiative supporting NGOs and addressing social challenges, impacting **10,000+ individuals** over three years.  
+- Founded **Saahayak**, a student-led initiative supporting NGOs and addressing social challenges, impacting **10,000+ individuals** over three years.
+- Passionate about photography, biking, writing, motorsports, cricket, geopolitics, watches, perfumes
 
 
 ## 🔧 Technical Skills  
-
 ### Programming Languages  
 - Python  
 - SQL  
@@ -46,14 +46,12 @@ I’m passionate about **interpretable data science**, ensuring complex models a
 
 ### Libraries & Frameworks  
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Plotly, Seaborn  
-- **Machine Learning:** Scikit-learn, Statsmodels, SciPy, PyTorch, PyTorch Lightning, FastAI  
-- **Deep Learning & Transformers:** Hugging Face, LangChain, Detectron, PyTorch Forecasting, Optuna  
+- **Machine Learning:** Scikit-learn, Statsmodels, SciPy, Optuna, W&B
+- **Deep Learning & Transformers:** PyTorch, HuggingFace, LangChain, Detectron, PyTorch Forecasting, PyTorch Lightning, FastAI, Nixtla,TensorBoard 
 - **NLP:** NLTK, SpaCy  
-- **Time-Series Modeling:** Temporal Fusion Transformers (TFT), PatchTST  
-- **OCR & Computer Vision:** docTR  
 
 ### Machine Learning & AI Expertise  
-- Transformers & LLMs (Llama, Mistral, NVIDIA LLMs)  
+- Transformers & LLMs (OpenAI, Llama, Mistral, NVIDIA LLMs)  
 - Deep Learning (RNNs, LSTMs, GRUs)  
 - Natural Language Processing (NLP)  
 - Computer Vision  
@@ -66,16 +64,13 @@ I’m passionate about **interpretable data science**, ensuring complex models a
 - **Development:** Git, Jupyter Lab, VS Code  
 - **Productivity:** Google Suite, Microsoft Office, Notion, Figma  
 
-### Domain-Specific Knowledge  
-- Financial Analysis  
-- CRM Systems  
-- Blockchain Technology  
-- Economic and Geopolitical Sentiment Analysis  
-
 ### Soft Skills  
-- Leadership and Team Management  
-- Communication and Stakeholder Presentation  
-- Report Writing and Knowledge Sharing  
+- Communication & Presentation
+- Leadership & Team Management
+- Networking & Collaboration
+- Creative Thinking & Brainstorming 
+- Report Writing and Slidedecks for Knowledge Sharing
+- 
 
 ---
 
